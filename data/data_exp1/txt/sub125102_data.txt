@@ -1,0 +1,109 @@
+SUBN	TRIAL	STUDY.TEST	WORD1	WORD2	POINTS	WORD2RESP	ACC	
+125102	1	STUDY	peel	apple	3	NA	NA	
+125102	2	STUDY	maid	honor	2	NA	NA	
+125102	3	STUDY	throw	move	3	NA	NA	
+125102	4	STUDY	cost	lot	3	NA	NA	
+125102	5	STUDY	vacate	evacuate	0	NA	NA	
+125102	6	STUDY	taboo	norm	1	NA	NA	
+125102	7	STUDY	beer	taste	0	NA	NA	
+125102	8	STUDY	build	add	1	NA	NA	
+125102	9	STUDY	sleeve	jacket	4	NA	NA	
+125102	10	STUDY	math	test	0	NA	NA	
+125102	11	STUDY	coin	bill	0	NA	NA	
+125102	12	STUDY	snake	ugly	5	NA	NA	
+125102	13	STUDY	space	black	0	NA	NA	
+125102	14	STUDY	paint	smell	1	NA	NA	
+125102	15	STUDY	defeat	battle	2	NA	NA	
+125102	16	STUDY	dawn	night	1	NA	NA	
+125102	17	STUDY	shop	keeper	3	NA	NA	
+125102	18	STUDY	grove	group	0	NA	NA	
+125102	19	STUDY	shame	abuse	2	NA	NA	
+125102	20	STUDY	contact	apart	2	NA	NA	
+125102	21	STUDY	beat	blend	5	NA	NA	
+125102	22	STUDY	circus	lion	4	NA	NA	
+125102	23	STUDY	damp	stink	0	NA	NA	
+125102	24	STUDY	marry	family	3	NA	NA	
+125102	25	STUDY	curve	girl	5	NA	NA	
+125102	26	STUDY	grave	bad	5	NA	NA	
+125102	27	STUDY	artist	picture	1	NA	NA	
+125102	28	STUDY	piano	man	4	NA	NA	
+125102	29	STUDY	stare	rude	3	NA	NA	
+125102	30	STUDY	coast	float	5	NA	NA	
+125102	31	STUDY	choose	freedom	3	NA	NA	
+125102	32	STUDY	marsh	field	4	NA	NA	
+125102	33	STUDY	chief	major	2	NA	NA	
+125102	34	STUDY	support	love	0	NA	NA	
+125102	35	STUDY	bead	rain	4	NA	NA	
+125102	36	STUDY	tale	end	2	NA	NA	
+125102	37	STUDY	tomato	hot	4	NA	NA	
+125102	38	STUDY	pig	dirt	5	NA	NA	
+125102	39	STUDY	tumble	mat	5	NA	NA	
+125102	40	STUDY	search	lost	1	NA	NA	
+125102	41	STUDY	grow	rise	1	NA	NA	
+125102	42	STUDY	demand	take	3	NA	NA	
+125102	43	STUDY	dizzy	confuse	4	NA	NA	
+125102	44	STUDY	mask	scuba	5	NA	NA	
+125102	45	STUDY	bath	house	3	NA	NA	
+125102	46	STUDY	crowd	big	4	NA	NA	
+125102	47	STUDY	stay	home	4	NA	NA	
+125102	48	STUDY	student	stress	5	NA	NA	
+125102	49	STUDY	party	friend	2	NA	NA	
+125102	50	STUDY	barrel	drum	2	NA	NA	
+125102	51	STUDY	spool	pool	1	NA	NA	
+125102	52	STUDY	saint	priest	0	NA	NA	
+125102	53	STUDY	stalk	kill	2	NA	NA	
+125102	54	STUDY	collar	blouse	1	NA	NA	
+125102	1	TEST	student	stress	5	   	0	
+125102	2	TEST	defeat	battle	2	lose	0	
+125102	3	TEST	support	love	0	   	0	
+125102	4	TEST	choose	freedom	3	option	0	
+125102	5	TEST	demand	take	3	      	0	
+125102	6	TEST	peel	apple	3	apple	1	
+125102	7	TEST	grove	group	0	tree	0	
+125102	8	TEST	stalk	kill	2	    	0	
+125102	9	TEST	barrel	drum	2	      	0	
+125102	10	TEST	pig	dirt	5	   	0	
+125102	11	TEST	damp	stink	0	   	0	
+125102	12	TEST	stay	home	4	   	0	
+125102	13	TEST	beer	taste	0	wheat	0	
+125102	14	TEST	beat	blend	5	defeat	0	
+125102	15	TEST	crowd	big	4	   	0	
+125102	16	TEST	tumble	mat	5	rumble	0	
+125102	17	TEST	maid	honor	2	clean	0	
+125102	18	TEST	tomato	hot	4	   	0	
+125102	19	TEST	circus	lion	4	   	0	
+125102	20	TEST	marsh	field	4	swamp	0	
+125102	21	TEST	chief	major	2	   	0	
+125102	22	TEST	snake	ugly	5	   	0	
+125102	23	TEST	dawn	night	1	night	1	
+125102	24	TEST	shame	abuse	2	   	0	
+125102	25	TEST	collar	blouse	1	   	0	
+125102	26	TEST	grave	bad	5	   	0	
+125102	27	TEST	space	black	0	sky	0	
+125102	28	TEST	shop	keeper	3	sell	0	
+125102	29	TEST	sleeve	jacket	4	   	0	
+125102	30	TEST	marry	family	3	propose	0	
+125102	31	TEST	paint	smell	1	   	0	
+125102	32	TEST	bath	house	3	house	1	
+125102	33	TEST	mask	scuba	5	face	0	
+125102	34	TEST	saint	priest	0	    	0	
+125102	35	TEST	throw	move	3	    	0	
+125102	36	TEST	stare	rude	3	glare	0	
+125102	37	TEST	party	friend	2	    	0	
+125102	38	TEST	bead	rain	4	   	0	
+125102	39	TEST	curve	girl	5	throw	0	
+125102	40	TEST	piano	man	4	   	0	
+125102	41	TEST	taboo	norm	1	     	0	
+125102	42	TEST	vacate	evacuate	0	evacuate	1	
+125102	43	TEST	cost	lot	3	price	0	
+125102	44	TEST	build	add	1	   	0	
+125102	45	TEST	contact	apart	2	   	0	
+125102	46	TEST	math	test	0	problem	0	
+125102	47	TEST	search	lost	1	   	0	
+125102	48	TEST	grow	rise	1	   	0	
+125102	49	TEST	dizzy	confuse	4	   	0	
+125102	50	TEST	coin	bill	0	purse	0	
+125102	51	TEST	artist	picture	1	   	0	
+125102	52	TEST	spool	pool	1	pool	1	
+125102	53	TEST	tale	end	2	story	0	
+125102	54	TEST	coast	float	5	   	0	

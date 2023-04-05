@@ -1,0 +1,109 @@
+SUBN	TRIAL	STUDY.TEST	WORD1	WORD2	POINTS	WORD2RESP	ACC	
+125618	1	STUDY	throw	move	3	NA	NA	
+125618	2	STUDY	snake	ugly	5	NA	NA	
+125618	3	STUDY	spool	pool	1	NA	NA	
+125618	4	STUDY	marry	family	3	NA	NA	
+125618	5	STUDY	cost	lot	3	NA	NA	
+125618	6	STUDY	damp	stink	0	NA	NA	
+125618	7	STUDY	taboo	norm	1	NA	NA	
+125618	8	STUDY	shame	abuse	2	NA	NA	
+125618	9	STUDY	stay	home	4	NA	NA	
+125618	10	STUDY	stalk	kill	2	NA	NA	
+125618	11	STUDY	tumble	mat	5	NA	NA	
+125618	12	STUDY	party	friend	2	NA	NA	
+125618	13	STUDY	sleeve	jacket	4	NA	NA	
+125618	14	STUDY	shop	keeper	3	NA	NA	
+125618	15	STUDY	search	lost	1	NA	NA	
+125618	16	STUDY	beer	taste	0	NA	NA	
+125618	17	STUDY	tomato	hot	4	NA	NA	
+125618	18	STUDY	marsh	field	4	NA	NA	
+125618	19	STUDY	dawn	night	1	NA	NA	
+125618	20	STUDY	vacate	evacuate	0	NA	NA	
+125618	21	STUDY	defeat	battle	2	NA	NA	
+125618	22	STUDY	support	love	0	NA	NA	
+125618	23	STUDY	grow	rise	1	NA	NA	
+125618	24	STUDY	space	black	0	NA	NA	
+125618	25	STUDY	paint	smell	1	NA	NA	
+125618	26	STUDY	contact	apart	2	NA	NA	
+125618	27	STUDY	peel	apple	3	NA	NA	
+125618	28	STUDY	mask	scuba	5	NA	NA	
+125618	29	STUDY	saint	priest	0	NA	NA	
+125618	30	STUDY	bath	house	3	NA	NA	
+125618	31	STUDY	collar	blouse	1	NA	NA	
+125618	32	STUDY	maid	honor	2	NA	NA	
+125618	33	STUDY	pig	dirt	5	NA	NA	
+125618	34	STUDY	artist	picture	1	NA	NA	
+125618	35	STUDY	curve	girl	5	NA	NA	
+125618	36	STUDY	choose	freedom	3	NA	NA	
+125618	37	STUDY	demand	take	3	NA	NA	
+125618	38	STUDY	beat	blend	5	NA	NA	
+125618	39	STUDY	circus	lion	4	NA	NA	
+125618	40	STUDY	grove	group	0	NA	NA	
+125618	41	STUDY	math	test	0	NA	NA	
+125618	42	STUDY	chief	major	2	NA	NA	
+125618	43	STUDY	barrel	drum	2	NA	NA	
+125618	44	STUDY	dizzy	confuse	4	NA	NA	
+125618	45	STUDY	tale	end	2	NA	NA	
+125618	46	STUDY	coast	float	5	NA	NA	
+125618	47	STUDY	bead	rain	4	NA	NA	
+125618	48	STUDY	piano	man	4	NA	NA	
+125618	49	STUDY	grave	bad	5	NA	NA	
+125618	50	STUDY	coin	bill	0	NA	NA	
+125618	51	STUDY	stare	rude	3	NA	NA	
+125618	52	STUDY	build	add	1	NA	NA	
+125618	53	STUDY	crowd	big	4	NA	NA	
+125618	54	STUDY	student	stress	5	NA	NA	
+125618	1	TEST	choose	freedom	3	take	0	
+125618	2	TEST	defeat	battle	2	lose	0	
+125618	3	TEST	marsh	field	4	field	1	
+125618	4	TEST	beat	blend	5	win	0	
+125618	5	TEST	bead	rain	4	rain	1	
+125618	6	TEST	shame	abuse	2	abuse	1	
+125618	7	TEST	bath	house	3	water	0	
+125618	8	TEST	spool	pool	1	spool	0	
+125618	9	TEST	build	add	1	make	0	
+125618	10	TEST	dawn	night	1	light	0	
+125618	11	TEST	maid	honor	2	maid	0	
+125618	12	TEST	artist	picture	1	draw	0	
+125618	13	TEST	tumble	mat	5	fall	0	
+125618	14	TEST	collar	blouse	1	blouse	1	
+125618	15	TEST	paint	smell	1	wall	0	
+125618	16	TEST	support	love	0	help	0	
+125618	17	TEST	damp	stink	0	wet	0	
+125618	18	TEST	peel	apple	3	tear	0	
+125618	19	TEST	math	test	0	add	0	
+125618	20	TEST	crowd	big	4	none	0	
+125618	21	TEST	chief	major	2	----	0	
+125618	22	TEST	vacate	evacuate	0	evacuate	1	
+125618	23	TEST	taboo	norm	1	----	0	
+125618	24	TEST	sleeve	jacket	4	shirt	0	
+125618	25	TEST	student	stress	5	----	0	
+125618	26	TEST	stay	home	4	home	1	
+125618	27	TEST	marry	family	3	stay	0	
+125618	28	TEST	curve	girl	5	---	0	
+125618	29	TEST	barrel	drum	2	---	0	
+125618	30	TEST	search	lost	1	   	0	
+125618	31	TEST	mask	scuba	5	   	0	
+125618	32	TEST	pig	dirt	5	   	0	
+125618	33	TEST	coin	bill	0	dollar	0	
+125618	34	TEST	demand	take	3	take	1	
+125618	35	TEST	grove	group	0	   	0	
+125618	36	TEST	snake	ugly	5	grass	0	
+125618	37	TEST	shop	keeper	3	   	0	
+125618	38	TEST	saint	priest	0	   	0	
+125618	39	TEST	stalk	kill	2	kill	1	
+125618	40	TEST	beer	taste	0	   	0	
+125618	41	TEST	contact	apart	2	   	0	
+125618	42	TEST	grave	bad	5	   	0	
+125618	43	TEST	stare	rude	3	   	0	
+125618	44	TEST	piano	man	4	   	0	
+125618	45	TEST	cost	lot	3	   	0	
+125618	46	TEST	tomato	hot	4	hot	1	
+125618	47	TEST	party	friend	2	   	0	
+125618	48	TEST	grow	rise	1	   	0	
+125618	49	TEST	dizzy	confuse	4	   	0	
+125618	50	TEST	tale	end	2	   	0	
+125618	51	TEST	space	black	0	   	0	
+125618	52	TEST	circus	lion	4	   	0	
+125618	53	TEST	coast	float	5	   	0	
+125618	54	TEST	throw	move	3	   	0	
